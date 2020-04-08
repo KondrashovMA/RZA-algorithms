@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3970d45a-d054-4743-9034-46fb43a7ff8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DPT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DPT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InputData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InputData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OutputData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OutputData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SampleValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SumValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThreePhaseFourier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreePhaseFourier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ValuesForCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ValuesForCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DPT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DPT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InputData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InputData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SumValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThreePhaseFourier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThreePhaseFourier.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZqMf1M2IRe1ILZApYsGfKpoPqd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Lab2Alg  test для одной фазы" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab2Alg  test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3970d45a-d054-4743-9034-46fb43a7ff8f" name="Default Changelist" comment="" />
+      <created>1585562270748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585562270748</updated>
+    </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1586258281960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586258281960</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add class Output">
+      <created>1586258474963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586258474963</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Кривая версия, но рабочая">
+      <created>1586262335569</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586262335569</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <MESSAGE value="add class Output" />
+    <MESSAGE value="Кривая версия, но рабочая" />
+    <option name="LAST_COMMIT_MESSAGE" value="Кривая версия, но рабочая" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1585562361022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585562361022" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586098086264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586098086264" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1586271816963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586271816963" />
+    <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586266411040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1586266411040" />
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586337968487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586337968487" />
+    <state x="1090" y="117" key="CommitChangelistDialog2" timestamp="1586346607705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1090" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586346607705" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586281655802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586281655802" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1586345679986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586345679986" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1586345679986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586345679986" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1586345679985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586345679985" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1586345679986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586345679986" />
+    <state width="914" height="347" key="GridCell.Tab.1.bottom" timestamp="1586284945965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586284945965" />
+    <state width="914" height="347" key="GridCell.Tab.1.center" timestamp="1586284945965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586284945965" />
+    <state width="914" height="347" key="GridCell.Tab.1.left" timestamp="1586284945965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586284945965" />
+    <state width="914" height="347" key="GridCell.Tab.1.right" timestamp="1586284945965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586284945965" />
+    <state x="880" y="98" key="SettingsEditor" timestamp="1586342026941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586342026941" />
+    <state x="666" y="148" key="refactoring.ChangeSignatureDialog" timestamp="1585578183275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="148" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585578183275" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586269251734">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586269251734" />
+  </component>
+</project>
